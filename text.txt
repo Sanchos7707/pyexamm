@@ -1,0 +1,2 @@
+Hello world , i'm word1 and word2
+Bye world , i'm word2 and word1
